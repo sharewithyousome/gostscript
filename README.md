@@ -25,3 +25,7 @@ proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/glider?
 #### 如何在linux使用.
 ------
 和windows差不多
+
+#### 免责声明
+------
+阅读该目录下Disclaimer和Disclaimer_en文件
