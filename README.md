@@ -14,10 +14,12 @@ gost script
 * 2 follow proxychains User guide ,edit socks5 port to 9150 in conf file (Do it yourself)
 * 3 Use following command to start .
 change content to gost command.
-``` proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/gost?content={your content}
+``` 
+proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/gost?content={your content}
 ```
 change content to glider command.
-``` proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/glider?content={your content}
+``` 
+proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/glider?content={your content}
 ```
 
 #### How to use on linux tor.
