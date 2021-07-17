@@ -4,23 +4,24 @@ gost script
 
 #### 如何在Telegram上使用
 ------
-* telegram 机器人用户名 @gostscriptbot . 
-* telegram 机器人用户名 @gliderscriptbot . 
+* telegram 机器人用户名 @gostscriptbot , 打开它会有教程教你. 
+* telegram 机器人用户名 @gliderscriptbot ,打开它会有教程教你. 
 
-#### How to use on windows tor.
+#### 如何在windows上使用
 ------
-* 1 download tor browser ( https://www.torproject.org/download/ ) , proxychains for windows ( https://github.com/shunf4/proxychains-windows ) , curl for windows ( https://curl.se/windows/ ).
-* 2 follow proxychains User guide ,edit socks5 port to 9150 in conf file (Do it yourself)
-* 3 Use following command to start .
-change content to gost command.
+* 1 下载洋葱浏览器 ( https://www.torproject.org/download/ ) , proxychains windows 版本 ( https://github.com/shunf4/proxychains-windows ) , curl windows 版本 ( https://curl.se/windows/ ).
+* 2 阅读proxychains操作指南 ,修改配置文件中的 socks5 端口到 9150 (自行解决)
+* 3 使用下面的命令开始你的使用吧
+
+订阅链接转gost脚本
 ``` 
 proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/gost?content={your content}
 ```
-change content to glider command.
+订阅链接转glider脚本
 ``` 
 proxychains -f proxychains.conf curl http://e7218dgyy89xdsa8yqe332.onion/glider?content={your content}
 ```
 
-#### How to use on linux tor.
+#### 如何在linux使用.
 ------
-It's about the same as windows
+和windows差不多
