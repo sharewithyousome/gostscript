@@ -2,6 +2,11 @@ gost script
 ======
 ### 一个可以将你从v2ray或shadowsocks相关软件复制来的链接转成 gost 或者 glider 命令的脚本
 
+#### 联系方式
+------
+Telegram频道: @gostscript @gliderscript 
+邮箱: sharewithyousome@protonmail.com
+
 #### 如何在Telegram上使用
 ------
 * telegram 机器人用户名 @gostscriptbot , 打开它会有教程教你. 
