@@ -4,7 +4,7 @@ gost script
 
 #### 联系方式
 ------
-* Telegram频道: @gostscript @gliderscript 
+* Telegram频道: @gogostsc @gliderscript 
 * 邮箱: sharewithyousome@protonmail.com
 
 #### 如何在Telegram上使用
